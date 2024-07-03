@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/Widgets/PlayerScreen.uasset",
+				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/Widgets/PlayerHUD.uasset",
+				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
