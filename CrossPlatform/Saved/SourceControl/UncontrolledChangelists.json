@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/ScoreablePlayerState.uasset",
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/Pickup.uasset",
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GK/J0IOAM1UCT612MRZ79VW5G.uasset",
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/24/39BJJG74U5XPJ5OGSSLE2A.uasset",
+				"C:/Users/s211426/Documents/GitHub/UnrealCrossPlatform/CrossPlatform/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/WC884AS6ALZKAXW30PYWPE.uasset",
 				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/Widgets/PlayerScreen.uasset",
 				"C:/Users/domis.DOMPC/Documents/Unreal Projects/CrossPlatform/Content/Widgets/PlayerHUD.uasset",
